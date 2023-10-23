@@ -9,8 +9,11 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Algorithm:
 1.Import the libraries and read the data frame using pandas.
+
 2.Calculate the null values present in the dataset and apply label encoder.
+
 3.Determine test and training data set and apply decison tree regression in dataset.
+
 4.calculate Mean square error,data prediction and r2.
 
 ## Program:
@@ -47,21 +50,27 @@ dt.predict([[5,6]])
 
 ## Output:
 data.head():
+
 ![Screenshot 2023-10-23 092233](https://github.com/premalatha-sureshbabu/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/120620842/a491bf65-f59b-4b30-9ef3-570457dbd185)
 
 data.info():
+
 ![Screenshot 2023-10-23 092238](https://github.com/premalatha-sureshbabu/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/120620842/94090c41-eba5-449f-a4e0-42ea36533e24)
 
 isnull() & sum() function:
+
 ![Screenshot 2023-10-23 092243](https://github.com/premalatha-sureshbabu/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/120620842/6739982b-997a-4fcd-b33c-2fa83c90c379)
 
 data.head() for position:
+
 ![Screenshot 2023-10-23 092250](https://github.com/premalatha-sureshbabu/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/120620842/44664ef2-56c7-4201-af75-0536c98733e1)
 
 MSE value:
+
 ![Screenshot 2023-10-23 092256](https://github.com/premalatha-sureshbabu/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/120620842/1a816b72-f1b2-45bc-9b0b-de51422c47ca)
 
 R2 value:
+
 ![Screenshot 2023-10-23 092300](https://github.com/premalatha-sureshbabu/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/120620842/0d7b4632-db4e-4de7-a71b-cd51d78a23a2)
 
 Prediction value:
