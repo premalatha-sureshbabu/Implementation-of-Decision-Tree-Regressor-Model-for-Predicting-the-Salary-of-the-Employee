@@ -74,6 +74,7 @@ R2 value:
 ![Screenshot 2023-10-23 092300](https://github.com/premalatha-sureshbabu/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/120620842/0d7b4632-db4e-4de7-a71b-cd51d78a23a2)
 
 Prediction value:
+
 ![Screenshot 2023-10-23 092308](https://github.com/premalatha-sureshbabu/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/120620842/8b5eb781-d0b7-483d-bcd5-d973e1e5d9d4)
 
 ## Result:
